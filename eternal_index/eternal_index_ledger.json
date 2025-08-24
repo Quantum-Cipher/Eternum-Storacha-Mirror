@@ -1,0 +1,79 @@
+{
+  "spaces": [
+    {
+      "name": "eternal_index_ledger.json",
+      "visibility": "Public",
+      "did": "did:key:z6MkvCwxbPDutsksTkdrzPA7CMKXN6chN2KijqNLJtgwNYQk"
+    },
+    {
+      "name": "Eternum_Oracles",
+      "visibility": "Public",
+      "did": "did:key:z6MkqMbUtmjvqt93sKAjdUHoyYu7T6wz4pQairS1s7hzEBUh"
+    },
+    {
+      "name": "Eternum_SIGMA_VEIL",
+      "visibility": "Public",
+      "did": "did:key:z6MkpqJNSMafDwg7g89SYCnWn5eAYXzfFgsTXmCuQLxypTBr"
+    },
+    {
+      "name": "Eternum_WaveHack_Ghostnode",
+      "visibility": "Public",
+      "did": "did:key:z6MkkHjeziASbpiKdbDiZt8cQrJxBibk7qzk2EQutMAtZ9PU"
+    },
+    {
+      "name": "Eternum-Rituals",
+      "visibility": "Public",
+      "did": "did:key:z6MkoyLZRUMNVpCPT1xwjTScH5bZHRaoGeQtk6kRCRTR1uZX"
+    },
+    {
+      "name": "eternum-sigil-vault",
+      "visibility": "Public",
+      "did": "did:key:z6MkrPGwey7FRH5fyScp7fsppbAwECr2e6GErYotF1vwyBPs"
+    },
+    {
+      "name": "eternum-sigil-vault",
+      "visibility": "Public",
+      "did": "did:key:z6Mko4Ny8ARPs7XQwpDaCTeowRUo6c6S6PXaiTEohVJaQ4Lv"
+    },
+    {
+      "name": "Eternum369",
+      "visibility": "Public",
+      "did": "did:key:z6Mkf3zLYuuKA95ReeDyDmVJARk4GHQkc3owT8GeXuvwK8nF"
+    },
+    {
+      "name": "Founding-Codex",
+      "visibility": "Public",
+      "did": "did:key:z6MkubMNSRmfZBDDQvhS7SsPJPNjX6NLnCBYdg5wdxJBLAh8"
+    },
+    {
+      "name": "ghostnode-metadata",
+      "visibility": "Public",
+      "did": "did:key:z6Mkq9irSUuiMs6B7m7pJGxxcvGUm2ou7xM9MDo6naYqY9V2"
+    },
+    {
+      "name": "Internal Sigil Alignment",
+      "visibility": "Public",
+      "did": "did:key:z6Mkj31hFj1evmpbD3DXGgtc6truLwm8WqkSVTUxNKwdKyh9"
+    },
+    {
+      "name": "Storacha API",
+      "visibility": "Public",
+      "did": "did:key:z6MkjrynW4MAt7aMi2TJAobr7Vvbw8fkUpxB6Xx9JJ6ybK6e"
+    },
+    {
+      "name": "Trapped in a Void",
+      "visibility": "Public",
+      "did": "did:key:z6MkkeV6pzAoDByhg27Zteqa3Faz7mS4L8pyt7urdyDWtM9J"
+    },
+    {
+      "name": "ucan.failproof.log",
+      "visibility": "Public",
+      "did": "did:key:z6Mkt2MCK6h7sBx5GD85BvQmnjcTVW6QBdEmjEAV2yoAnXBE"
+    },
+    {
+      "name": "Zora Mints",
+      "visibility": "Public",
+      "did": "did:key:z6MkpQkJ8koSsf4SuapvVRTwPMN4MS5DNCLMzkRrzprFtr9Q"
+    }
+  ]
+}
